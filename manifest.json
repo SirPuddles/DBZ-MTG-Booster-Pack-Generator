@@ -1,0 +1,480 @@
+{
+  "commons": [
+    {
+      "name": "Android 19",
+      "image": "images/Android_19.png"
+    },
+    {
+      "name": "Android Barrier",
+      "image": "images/Android_Barrier.png"
+    },
+    {
+      "name": "Big Bang Attack",
+      "image": "images/Big_Bang_Attack.png"
+    },
+    {
+      "name": "Bio-Absorption",
+      "image": "images/Bio_Absorption.png"
+    },
+    {
+      "name": "Bio-Regenaration",
+      "image": "images/Bio_Regeneration.png"
+    },
+    {
+      "name": "Bowl Cut Gohan",
+      "image": "images/Bowl_Cut_Gohan.png"
+    },
+    {
+      "name": "Burter, the Blue Hurricane",
+      "image": "images/Burter_the_Blue_Hurricane.png"
+    },
+    {
+      "name": "Capsules",
+      "image": "images/Capsules.png"
+    },
+    {
+      "name": "Charge Ki",
+      "image": "images/Charge_Ki.png"
+    },
+    {
+      "name": "Chi-Chi, Protective Mother",
+      "image": "images/Chi_Chi_Protective_Mother.png"
+    },
+    {
+      "name": "Chiaotzu, Brave Supporter",
+      "image": "images/Chiaotzu_Brave_Supporter.png"
+    },
+    {
+      "name": "Death Beam",
+      "image": "images/Death_Beam.png"
+    },
+    {
+      "name": "Death Saucer Misfire",
+      "image": "images/Death_Saucer_Misfire.png"
+    },
+    {
+      "name": "Dende, Namekian Healer",
+      "image": "images/Dende_Namekian_Healer.png"
+    },
+    {
+      "name": "Destructo-Disk",
+      "image": "images/Destructo_Disk.png"
+    },
+    {
+      "name": "Dr. Gero, Android 20",
+      "image": "images/Dr_Gero_Android_20.png"
+    },
+    {
+      "name": "Dragon Radar",
+      "image": "images/Dragon_Radar.png"
+    },
+    {
+      "name": "Energy Drain",
+      "image": "images/Energy_Drain.png"
+    },
+    {
+      "name": "Explode",
+      "image": "images/Explode.png"
+    },
+    {
+      "name": "Frieza's Hover Chair",
+      "image": "images/Frieza's_Hover_Chair.png"
+    },
+    {
+      "name": "Guldo, Time Amateur",
+      "image": "images/Guldo_Time_Amateur.png"
+    },
+    {
+      "name": "Healing Pod",
+      "image": "images/Healing_Pod.png"
+    },
+    {
+      "name": "Heart Medicine",
+      "image": "images/Heart_Medicine.png"
+    },
+    {
+      "name": "Image Training",
+      "image": "images/Image_Training.png"
+    },
+    {
+      "name": "Jeice, the Red Magma",
+      "image": "images/Jeice_the_Red_Magma.png"
+    },
+    {
+      "name": "King Cold",
+      "image": "images/King_Cold.png"
+    },
+    {
+      "name": "Krillin, Potential Unlocked",
+      "image": "images/Krillin_Potential_Unlocked.jpeg"
+    },
+    {
+      "name": "Masenko",
+      "image": "images/Masenko.png"
+    },
+    {
+      "name": "Master Roshi, Turtle Hermit",
+      "image": "images/Master_Roshi_Turtle_Hermit.png"
+    },
+    {
+      "name": "Mecha Frieza, Power Rebuilt",
+      "image": "images/Mecha_Frieza_Power_Rebuilt.png"
+    },
+    {
+      "name": "Namekian Fusion",
+      "image": "images/Namekian_Fusion.png"
+    },
+    {
+      "name": "Paragus, Controlling Father",
+      "image": "images/Paragus_Controling_Father.png"
+    },
+    {
+      "name": "Piccolo's Sacrifice",
+      "image": "images/Piccolo's_Sacrifice.png"
+    },
+    {
+      "name": "Popo's Harsh Training",
+      "image": "images/Popo's_Harsh_Training.png"
+    },
+    {
+      "name": "Prepare for the Invasion",
+      "image": "images/Prepare_for_the_Invasion.png"
+    },
+    {
+      "name": "Puar, Shape-shifting Cat",
+      "image": "images/Puar_Shape_Shifting_Cat.png"
+    },
+    {
+      "name": "Saiyan Armor",
+      "image": "images/Saiyan_Armor.png"
+    },
+    {
+      "name": "Scouter",
+      "image": "images/Scouter.png"
+    },
+    {
+      "name": "Sense Ki",
+      "image": "images/Sense_Ki.png"
+    },
+    {
+      "name": "Solar Flare",
+      "image": "images/Solar_Flare.png"
+    },
+    {
+      "name": "Solo Training",
+      "image": "images/Solo_Training.png"
+    },
+    {
+      "name": "Spice Boys Warrior",
+      "image": "images/Spice_Boys_Warrior.png"
+    },
+    {
+      "name": "Training with Kami",
+      "image": "images/Training_with_Kami.png"
+    },
+    {
+      "name": "Training with King Kai",
+      "image": "images/Training_with_King_Kai.png"
+    },
+    {
+      "name": "Weighted Clothes",
+      "image": "images/Weighted_Clothes.png"
+    },
+    {
+      "name": "Yajirobe, Cowardly Hero",
+      "image": "images/Yajirobe_Cowardly_Hero.png"
+    }
+  ],
+  "uncommons": [
+    {
+      "name": "Bulma, Genius Scientist",
+      "image": "images/Bulma_Genius_Scientist.png"
+    },
+    {
+      "name": "Dodoria, Hardy Brute",
+      "image": "images/Dodoria_Hardy_Brute.png"
+    },
+    {
+      "name": "Explosion Remote",
+      "image": "images/Explosion_Remote.png"
+    },
+    {
+      "name": "Frieza’s Spaceship",
+      "image": "images/Frieza’s_Spaceship.png"
+    },
+    {
+      "name": "Gizard Wasteland",
+      "image": "images/Gizard_Wasteland.png"
+    },
+    {
+      "name": "Gravity Training",
+      "image": "images/Gravity_Training.png"
+    },
+    {
+      "name": "Guru’s Sacred Plateau",
+      "image": "images/Guru’s_Sacred_Plateau.png"
+    },
+    {
+      "name": "Heat Dome Attack",
+      "image": "images/Heat_Dome_Attack.png"
+    },
+    {
+      "name": "Hellzone Grenade",
+      "image": "images/Hellzone_Grenade.png"
+    },
+    {
+      "name": "Instant Transmission",
+      "image": "images/Instant_Transmission.png"
+    },
+    {
+      "name": "Kame House",
+      "image": "images/Kame_House.png"
+    },
+    {
+      "name": "Kami, Guardian of Earth",
+      "image": "images/Kami_Guardian_of_Earth.png"
+    },
+    {
+      "name": "Kami’s Lookout",
+      "image": "images/Kami’s_Lookout.png"
+    },
+    {
+      "name": "King Yemma, Judge of Other World",
+      "image": "images/King_Yemma_Judge_of_Other_World.png"
+    },
+    {
+      "name": "Krillin, Loyal Fighter",
+      "image": "images/Krillin_Loyal_Fighter.png"
+    },
+    {
+      "name": "Land of Korrin",
+      "image": "images/Land_of_Korrin.png"
+    },
+    {
+      "name": "Nail, Guru’s Guardian",
+      "image": "images/Nail_Guru’s_Guardian.png"
+    },
+    {
+      "name": "Nappa, Brutal Invader",
+      "image": "images/Nappa_Brutal_Invader.png"
+    },
+    {
+      "name": "Recoome, Showboating Bomber",
+      "image": "images/Recoome_Showboating_Bomber.png"
+    },
+    {
+      "name": "Saibamen Swarm",
+      "image": "images/Saibamen_Swarm.png"
+    },
+    {
+      "name": "Senzu Bean",
+      "image": "images/Senzu_Bean.png"
+    },
+    {
+      "name": "Snake Way",
+      "image": "images/Snake_Way.png"
+    },
+    {
+      "name": "Sparring Match",
+      "image": "images/Sparring_Match.png"
+    },
+    {
+      "name": "The Ginyu Force!",
+      "image": "images/The_Ginyu_Force!.png"
+    },
+    {
+      "name": "The Hyperbolic Time Chamber",
+      "image": "images/The_Hyperbolic_Time_Chamber.png"
+    },
+    {
+      "name": "Tien Shinhan, Disciplined Martial Artist",
+      "image": "images/Tien_Shinhan_Disciplined_Martial_Artist.png"
+    },
+    {
+      "name": "Trunk's Time Machine",
+      "image": "images/Trunk's_Time_Machine.png"
+    },
+    {
+      "name": "Vegeta, Merciless Thief",
+      "image": "images/Vegeta_Merciless_Thief.png"
+    },
+    {
+      "name": "Yamcha, Desert Bandit",
+      "image": "images/Yamcha_Desert_Bandit.png"
+    },
+    {
+      "name": "Zarbon, Elegant Warrior",
+      "image": "images/Zarbon_Elegant_Warrior.png"
+    }
+  ],
+  "rares": [
+    {
+      "name": "Captain Ginyu, Body Snatcher",
+      "image": "images/Captain_Ginyu_Body_Snatcher.png"
+    },
+    {
+      "name": "Fused Piccolo, Namek’s Hope",
+      "image": "images/Fused_Piccolo_Namek’s_Hope.png"
+    },
+    {
+      "name": "Grand Elder Guru",
+      "image": "images/Grand_Elder_Guru.png"
+    },
+    {
+      "name": "Great Ape Transformation",
+      "image": "images/Great_Ape_Transformation.png"
+    },
+    {
+      "name": "Kaio-Ken",
+      "image": "images/Kaio_Ken.png"
+    },
+    {
+      "name": "Kid Gohan, Hidden Potential",
+      "image": "images/Kid_Gohan_Hidden_Potential.png"
+    },
+    {
+      "name": "Mastered Super Saiyan",
+      "image": "images/Mastered_Super_Saiyan.png"
+    },
+    {
+      "name": "Piccolo, Rigid Mentor",
+      "image": "images/Piccolo_Rigid_Mentor.png"
+    },
+    {
+      "name": "Raditz, Ruthless Ravager",
+      "image": "images/Raditz_Ruthless_Ravager.png"
+    },
+    {
+      "name": "Spirit Bomb",
+      "image": "images/Spirit_Bomb.png"
+    },
+    {
+      "name": "Together We Are The... GinyuForce!",
+      "image": "images/Together_We_Are_The_Ginyu_Force!.png"
+    },
+    {
+      "name": "Vegeta, Ascended Saiyan",
+      "image": "images/Vegeta_Ascended_Saiyan.png"
+    }
+  ],
+  "mythics": [
+    {
+      "name": "Frieza’s Evolution//100% Full-Powered Frieza",
+      "image": "images/Frieza’s_Evolution.png"
+    },
+    {
+      "name": "Goku, Last of the Saiyans//Legendary Super Saiyan Goku",
+      "image": "images/Goku_Last_of_the_Saiyans.png"
+    },
+    {
+      "name": "Son Goku, Limitless Defender",
+      "image": "images/Son_Goku_Limitless_Defender.png"
+    },
+    {
+      "name": "The Frieza Saga",
+      "image": "images/The_Frieza_Saga.png"
+    },
+    {
+      "name": "The Namekian Dragon Balls",
+      "image": "images/The_Namekian_Dragon_Balls.png"
+    },
+    {
+      "name": "The Saiyan Saga",
+      "image": "images/The_Saiyan_Saga.png"
+    },
+    {
+      "name": "Vegeta Pride Incarnate",
+      "image": "images/Vegeta_Pride_Incarnate.png"
+    }
+  ],
+  "tokens": [
+    {
+      "name": "Alien",
+      "image": "images/Alien_1.png"
+    },
+    {
+      "name": "Alien",
+      "image": "images/Alien_2.png"
+    },
+    {
+      "name": "Alien",
+      "image": "images/Alien_3.png"
+    },
+    {
+      "name": "Alien",
+      "image": "images/Alien_4.png"
+    },
+    {
+      "name": "Dragon Ball",
+      "image": "images/Dragon_Ball_1.png"
+    },
+    {
+      "name": "Dragon Ball",
+      "image": "images/Dragon_Ball_2.png"
+    },
+    {
+      "name": "Dragon Ball",
+      "image": "images/Dragon_Ball_3.png"
+    },
+    {
+      "name": "Dragon Ball",
+      "image": "images/Dragon_Ball_4.png"
+    },
+    {
+      "name": "Dragon Ball",
+      "image": "images/Dragon_Ball_5.png"
+    },
+    {
+      "name": "Dragon Ball",
+      "image": "images/Dragon_Ball_6.png"
+    },
+    {
+      "name": "Dragon Ball",
+      "image": "images/Dragon_Ball_7.png"
+    },
+    {
+      "name": "Forest",
+      "image": "images/Forest.png"
+    },
+    {
+      "name": "Island",
+      "image": "images/Island.png"
+    },
+    {
+      "name": "Island",
+      "image": "images/Island.png"
+    },
+    {
+      "name": "Mountain",
+      "image": "images/Mountain.png"
+    },
+    {
+      "name": "Plains",
+      "image": "images/Plains.png"
+    },
+    {
+      "name": "Saibamen",
+      "image": "images/Saibamen_1.png"
+    },
+    {
+      "name": "Saibamen",
+      "image": "images/Saibamen_2.png"
+    },
+    {
+      "name": "Saibamen",
+      "image": "images/Saibamen_3.png"
+    },
+    {
+      "name": "Saibamen",
+      "image": "images/Saibamen_4.png"
+    },
+    {
+      "name": "Swamp",
+      "image": "images/Swamp.png"
+    },
+    {
+      "name": "Wastes",
+      "image": "images/Wastes.png"
+    }
+  ]
+}
