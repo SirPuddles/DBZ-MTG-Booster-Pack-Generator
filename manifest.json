@@ -78,7 +78,7 @@
     },
     {
       "name": "Frieza's Hover Chair",
-      "image": "images/Frieza's_Hover_Chair.png"
+      "image": "images/Friezas_Hover_Chair.png"
     },
     {
       "name": "Guldo, Time Amateur",
@@ -130,11 +130,11 @@
     },
     {
       "name": "Piccolo's Sacrifice",
-      "image": "images/Piccolo's_Sacrifice.png"
+      "image": "images/Piccolos_Sacrifice.png"
     },
     {
       "name": "Popo's Harsh Training",
-      "image": "images/Popo's_Harsh_Training.png"
+      "image": "images/Popos_Harsh_Training.png"
     },
     {
       "name": "Prepare for the Invasion",
@@ -200,7 +200,7 @@
     },
     {
       "name": "Frieza’s Spaceship",
-      "image": "images/Frieza’s_Spaceship.png"
+      "image": "images/Friezas_Spaceship.png"
     },
     {
       "name": "Gizard Wasteland",
@@ -212,7 +212,7 @@
     },
     {
       "name": "Guru’s Sacred Plateau",
-      "image": "images/Guru’s_Sacred_Plateau.png"
+      "image": "images/Gurus_Sacred_Plateau.png"
     },
     {
       "name": "Heat Dome Attack",
@@ -236,7 +236,7 @@
     },
     {
       "name": "Kami’s Lookout",
-      "image": "images/Kami’s_Lookout.png"
+      "image": "images/Kamis_Lookout.png"
     },
     {
       "name": "King Yemma, Judge of Other World",
@@ -292,7 +292,7 @@
     },
     {
       "name": "Trunks' Time Machine",
-      "image": "images/Trunks'_Time_Machine.png"
+      "image": "images/Trunks_Time_Machine.png"
     },
     {
       "name": "Vegeta, Merciless Thief",
@@ -360,7 +360,7 @@
   "mythics": [
     {
       "name": "Frieza’s Evolution//100% Full-Powered Frieza",
-      "image": "images/Frieza’s_Evolution.png"
+      "image": "images/Friezas_Evolution.png"
     },
     {
       "name": "Goku, Last of the Saiyans//Legendary Super Saiyan Goku",
