@@ -1,0 +1,79 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>DBZ Pack Generator</title>
+  <style>
+    img { width: 180px; margin: 4px; }
+  </style>
+</head>
+<body>
+
+<h1>DBZ Booster Pack</h1>
+<button onclick="openPack()">Open Pack</button>
+<div id="pack"></div>
+
+<script>
+let cards = [];
+
+fetch("manifest.json")
+  .then(res => res.json())
+  .then(data => cards = data);
+
+function rand(arr) {
+  return arr[Math.floor(Math.random() * arr.length)];
+}
+
+function filter(r) {
+  return cards.filter(c => c.rarity === r);
+}
+
+function openPack() {
+  const pack = document.getElementById("pack");
+  pack.innerHTML = "";
+
+  const commons = filter("common");
+  const uncommons = filter("uncommon");
+  const rares = filter("rare");
+  const mythics = filter("mythic");
+  const tokens = filter("token");
+  const lands = filter("land");
+
+  let pulled = [];
+
+  // 7 Commons
+  for (let i = 0; i < 7; i++) pulled.push(rand(commons));
+
+  // 4 Uncommons
+  for (let i = 0; i < 4; i++) pulled.push(rand(uncommons));
+
+  // 1 Rare
+  pulled.push(rand(rares));
+
+  // Mythic Slot
+  if (Math.random() <= 0.15) {
+    pulled.push(rand(mythics));
+  } else {
+    if (Math.random() <= 0.70) {
+      pulled.push(rand(commons));
+    } else {
+      pulled.push(rand(uncommons));
+    }
+  }
+
+  // Token + Land
+  pulled.push(rand(tokens));
+  pulled.push(rand(lands));
+
+  // Render
+  pulled.forEach(c => {
+    const img = document.createElement("img");
+    img.src = c.image;
+    img.title = c.name;
+    pack.appendChild(img);
+  });
+}
+</script>
+
+</body>
+</html>
